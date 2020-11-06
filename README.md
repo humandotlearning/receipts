@@ -1,6 +1,8 @@
 # receipts
+this project takes in reciept images as input and then analyzes it and extracts important fields from the image as a JSON file.
 
- just open receipts.pynb in google colab and keep pressing shift + enter to execute
+## execution
+just open **receipts.pynb** in google colab and keep pressing shift + enter to execute
  
  ## output
  
